@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lançamento do site da Mobilização Sulista
+title: "Lançamento do blog da Mobilização Sulista"
 date: 2018-01-30
 ---
 
